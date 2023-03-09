@@ -1,0 +1,8 @@
+/* Cascading Style Sheet merupakan aturan untuk mengatur beberapa komponen dalam sebuah web 
+	sehingga akan lebih terstruktur dan seragam. CSS bukan merupakan bahasa pemrograman */
+h1	{
+	color: lightblue;
+	font-family: arial;
+	font-size: 50px;
+	text-align: center;
+}
